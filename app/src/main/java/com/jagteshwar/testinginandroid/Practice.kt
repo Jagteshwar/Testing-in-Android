@@ -1,6 +1,6 @@
-package com.jagteshwar.unittesthomework
+package com.jagteshwar.testinginandroid
 
-object Homework {
+object Practice {
 
     /**
      * Returns the n-th fibonacci number
