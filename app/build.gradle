@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'com.jagteshwar.testinginandroid'
-    compileSdk 34
+    compileSdk 35
 
     defaultConfig {
         applicationId "com.jagteshwar.testinginandroid"
         minSdk 24
-        targetSdk 34
+        targetSdk 35
         versionCode 1
         versionName "1.0"
 
@@ -65,4 +65,5 @@ dependencies {
     debugImplementation libs.androidx.ui.test.manifest
 
     testImplementation "com.google.truth:truth:1.0.1"
+    androidTestImplementation "com.google.truth:truth:1.0.1"
 }
