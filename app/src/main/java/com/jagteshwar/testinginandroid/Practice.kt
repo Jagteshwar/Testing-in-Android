@@ -1,4 +1,4 @@
-package com.androiddevs.unittesthomework
+package com.jagteshwar.testinginandroid
 
 object Practice {
 
